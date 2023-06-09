@@ -1,0 +1,58 @@
+1|2023-05-09 21:00:37|asd|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36|Windows NT 10.0|login
+1|2023-05-09 22:33:50|fer|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|login
+1|2023-05-09 22:35:13|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|login
+1|2023-05-09 22:36:17|mit|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|login
+1|2023-05-09 22:46:40|tsw|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|login
+0|2023-05-09 23:05:57|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-09 23:07:18|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|La contraseña que has ingresado no es válida.
+1|2023-05-09 23:07:55|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|login
+1|2023-05-09 23:09:27|fer|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|autenticación exitosa
+0|2023-05-09 23:16:45|los|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|No existe cuenta registrada con ese nombre de usuario
+0|2023-05-09 23:17:45|los|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|No existe cuenta registrada con ese nombre de usuario
+0|2023-05-09 23:20:08|sus|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36|Windows NT 10.0|No existe cuenta registrada con ese nombre de usuario
+0|2023-05-09 23:21:57|fer|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36|Windows NT 10.0|La contraseña que has ingresado no es válida.
+1|2023-05-09 23:23:33|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|autenticación exitosa
+0|2023-05-09 23:24:45|fer3|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|No existe cuenta registrada con ese nombre de usuario
+0|2023-05-11 00:27:10|fer3|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|No existe cuenta registrada con ese nombre de usuario
+0|2023-05-11 01:11:39|fer|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-11 01:17:45|fer|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-11 01:18:23|fer|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-11 08:05:37|hola|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|No existe cuenta registrada con ese nombre de usuario
+1|2023-05-17 06:27:19|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|autenticación exitosa
+0|2023-05-17 06:27:32|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-17 06:27:39|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|La contraseña que has ingresado no es válida.
+1|2023-05-17 07:35:16|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|autenticación exitosa
+0|2023-05-17 07:35:25|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-17 07:35:33|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-17 07:35:37|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-17 07:35:42|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-17 07:35:47|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-17 07:36:16|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-17 07:36:19|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-17 07:36:22|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-17 07:36:24|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows NT 10.0|La contraseña que has ingresado no es válida.
+1|2023-05-18 00:06:39|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|autenticación exitosa
+0|2023-05-18 00:06:48|fer|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-19 02:49:04|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-19 02:49:09|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-19 02:49:13|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-19 02:49:16|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-19 02:49:22|luis|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows NT 10.0|La contraseña que has ingresado no es válida.
+0|2023-05-31 02:13:06|slackm_@hotmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0|Windows 10|Captcha invalido
+0|2023-05-31 02:14:18|slackm_@hotmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0|Windows 10|Captcha invalido
+0|2023-06-05 23:22:44|feriori548@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha invalido
+0|2023-06-05 23:22:51|feriori548@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Captcha invalido
+1|2023-06-05 23:50:38|asd@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-06-05 23:57:45|asd@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-06-06 00:16:41|asd@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-06-06 00:45:17|admin@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-06-06 00:45:45|admin@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-06-08 00:59:12|nom@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:113.0) Gecko/20100101 Firefox/113.0|Windows 10|Login Exitoso
+0|2023-06-08 00:59:29|admin@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:113.0) Gecko/20100101 Firefox/113.0|Windows 10|Contraseña invalida
+0|2023-06-08 01:20:25|admin@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:113.0) Gecko/20100101 Firefox/113.0|Windows 10|Captcha invalido
+1|2023-06-08 01:24:45|admin@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:113.0) Gecko/20100101 Firefox/113.0|Windows 10|Login Exitoso
+1|2023-06-08 01:45:56|admin@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:113.0) Gecko/20100101 Firefox/113.0|Windows 10|Login Exitoso
+1|2023-06-08 01:47:05|admin@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:113.0) Gecko/20100101 Firefox/113.0|Windows 10|Login Exitoso
+1|2023-06-08 01:47:55|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:113.0) Gecko/20100101 Firefox/113.0|Windows 10|Login Exitoso
+1|2023-06-08 01:48:07|carlos@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:113.0) Gecko/20100101 Firefox/113.0|Windows 10|Login Exitoso
+1|2023-06-08 01:48:36|admin@gmail.com|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; rv:113.0) Gecko/20100101 Firefox/113.0|Windows 10|Login Exitoso
